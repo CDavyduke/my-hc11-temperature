@@ -1,0 +1,1 @@
+my-hc11-temperature
