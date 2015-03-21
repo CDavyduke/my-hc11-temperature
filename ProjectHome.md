@@ -1,0 +1,1 @@
+This project reads the temperature using an LM35 temperature sensor read in on one of the A/D inputs of the HC11 and displays the temperature on an LCD display.
